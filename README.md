@@ -28,7 +28,7 @@
 ## 🧠 Sobre
 
 Sempre gostei de tecnologia e fui me aprofundando com o tempo.  
-Hoje estudo Ciência da Computação na UNIFOR e venho desenvolvendo projetos envolvendo back-end, front-end e banco de dados.  
+Hoje estudo Ciência da Computação na UNIFOR e venho desenvolvendo projetos para 
 
 Tenho interesse em evoluir na área de desenvolvimento e aplicar meus conhecimentos em projetos reais.
 
@@ -36,5 +36,5 @@ Tenho interesse em evoluir na área de desenvolvimento e aplicar meus conhecimen
 
 ## 📫 Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-red)](mailto:seuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/seulink)
+[![Gmail](miguel.tacchi@gmail.com)
+[![LinkedIn](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bg0qfWTdJQ9G9unE2Q51%2Fdw%3D%3D)
