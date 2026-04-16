@@ -2,7 +2,6 @@
 
 🎓 Estudante de Ciência da Computação (UNIFOR)  
 💻 Focado em desenvolvimento de software  
-🚀 Buscando estágio  
 
 ---
 
