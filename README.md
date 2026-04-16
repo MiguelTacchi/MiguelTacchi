@@ -37,3 +37,9 @@ Tenho interesse em evoluir na área de desenvolvimento e aplicar meus conhecimen
 
 [![Gmail](miguel.tacchi@gmail.com)
 [![LinkedIn](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bg0qfWTdJQ9G9unE2Q51%2Fdw%3D%3D)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelTacchi&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelTacchi&layout=compact&theme=tokyonight)
