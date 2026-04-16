@@ -1,3 +1,19 @@
+## Eae, Miguel aqui 👋
+
+🎓 Estudante de Ciência da Computação (UNIFOR)
+💻 Focado em desenvolvimento de software
+🚀 Interesse em desenvolvimento Web (React, Node.js) e back-end
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelTacchi\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelTacchi\&layout=compact\&theme=tokyonight)
+
+---
+
 ## 💻 Skills
 
 ### 👨‍💻 Linguagens
@@ -37,3 +53,18 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow)
 ![Inteligência Artificial](https://img.shields.io/badge/IA-blue)
 
+---
+
+## 🧠 Sobre
+
+Sempre gostei de tecnologia e fui me aprofundando com o tempo.
+Atualmente estudo Ciência da Computação na UNIFOR e venho desenvolvendo projetos envolvendo programação, banco de dados e desenvolvimento web.
+
+Tenho interesse em evoluir na área de desenvolvimento, especialmente com React e Node.js, e aplicar meus conhecimentos em projetos reais.
+
+---
+
+## 📫 Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:miguel.tacchi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/MiguelTacchi)
