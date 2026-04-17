@@ -1,7 +1,9 @@
 ## Eae, Miguel aqui 👋
 
 🎓 Estudante de Ciência da Computação (UNIFOR)
+
 💻 Focado em desenvolvimento de software
+
 🚀 Interesse em desenvolvimento Web (React, Node.js) e back-end
 
 ---
