@@ -1,5 +1,7 @@
 ## Eae, Miguel aqui 👋
 
+🔗 Meu portfólio: https://migueltacchi.github.io/portfolio/
+
 🎓 Estudante de Ciência da Computação (UNIFOR)
 
 💻 Focado em desenvolvimento de software
